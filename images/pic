@@ -1,2 +1,8 @@
-C:\Users\guddu\OneDrive\Desktop\portfolio\project-9\images\01pic.png
-C:\Users\guddu\OneDrive\Desktop\portfolio\project-9\images\02pic.png
+        <img src="images/01pic.png" onclick="openFullImg(this.src)">
+        <img src="images/02pic.png"  onclick="openFullImg(this.src)">
+        <img src="images/03pic.png"  onclick="openFullImg(this.src)">
+        <img src="images/08pic.png"  onclick="openFullImg(this.src)">
+        <img src="images/09pic.png"  onclick="openFullImg(this.src)">
+        <img src="images/0004pic.png" onclick="openFullImg(this.src)">
+        <img src="images/006.png" onclick="openFullImg(this.src)">
+        <img src="images/007.png" onclick="openFullImg(this.src)">
